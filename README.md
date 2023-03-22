@@ -9,13 +9,13 @@ We preprocessed the data by scaling the numerical features using MinMaxScaler an
 # Machine Learning Libraries
 We used several machine learning libraries to train and evaluate the Auto Oracle model. The libraries we used include:
 
-LinearRegression from scikit-learn's linear_model module
-ElasticNet from scikit-learn's linear_model module
-RandomForestRegressor from scikit-learn's ensemble module
+* LinearRegression from scikit-learn's linear_model module
+* ElasticNet from scikit-learn's linear_model module
+* RandomForestRegressor from scikit-learn's ensemble module
 
 # Evaluation Metrics
 We used several evaluation metrics to evaluate the performance of the Auto Oracle model. The metrics we used include:
 
-mean_absolute_error from scikit-learn's metrics module
-mean_squared_log_error from scikit-learn's metrics module
-mean_squared_error from scikit-learn's metrics module
+* mean_absolute_error from scikit-learn's metrics module
+* mean_squared_log_error from scikit-learn's metrics module
+* mean_squared_error from scikit-learn's metrics module
